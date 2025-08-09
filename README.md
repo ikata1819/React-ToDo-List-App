@@ -29,7 +29,8 @@ Users can add, mark as complete, and delete tasks with ease. Tasks are stored in
 - Click the trash icon to delete a task  
 
 ## 📷 Screenshots
-*(Add a screenshot of your app here for a better presentation)*
+<img width="1914" height="870" alt="Screenshot 2025-08-09 125316" src="https://github.com/user-attachments/assets/cd472bf7-73dc-43b0-a934-314c1e586b30" />
+
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
