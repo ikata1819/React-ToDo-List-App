@@ -1,13 +1,35 @@
-# React + Vite
+# React To-Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive to-do list application built with **React** and **Vite**.  
+Users can add, mark as complete, and delete tasks with ease. Tasks are stored in the browser’s local storage so they persist after refreshing the page.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- ➕ Add new tasks  
+- ✅ Mark tasks as complete or incomplete  
+- 🗑️ Delete tasks  
+- 💾 Persistent storage with LocalStorage  
+- ⚡ Fast development with Vite’s HMR (Hot Module Replacement)  
+- 📱 Responsive design for both mobile and desktop  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Technologies Used
+- **React** – UI library for building interactive interfaces  
+- **Vite** – Modern build tool and development server  
+- **CSS** – Styling the components  
+- **JavaScript (ES6+)** – App logic and interactivity  
 
-## Expanding the ESLint configuration
+## 📦 Installation
+1. Clone this repository from GitHub  
+2. Navigate into the project folder  
+3. Install the dependencies using `npm install`  
+4. Start the development server using `npm run dev`  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# React-ToDo-List-App" 
+## 📌 Usage
+- Type a task into the input box and press **Enter** or click the **Add** button  
+- Click the checkbox to mark a task as complete or incomplete  
+- Click the trash icon to delete a task  
+
+## 📷 Screenshots
+*(Add a screenshot of your app here for a better presentation)*
+
+## 📜 License
+This project is open-source and available under the **MIT License**.
